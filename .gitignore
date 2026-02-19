@@ -1,0 +1,6 @@
+fastq/
+trimmed/
+alignment/*.bam
+alignment/*.bam.bai
+reference/
+*.gz
